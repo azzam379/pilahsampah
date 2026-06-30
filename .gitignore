@@ -6,5 +6,5 @@ venv/
 *.zip
 garbage_dataset/
 
-# Ignore large model files
-*.h5
+# Ignore large model files (over 100MB)
+custom_cnn_model.h5
