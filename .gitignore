@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+env/
+venv/
+.DS_Store
+*.zip
+garbage_dataset/
+
+# Ignore large model files
+*.h5

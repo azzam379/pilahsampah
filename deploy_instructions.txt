@@ -1,0 +1,20 @@
+CARA DEPLOY KE STREAMLIT CLOUD:
+
+1. Upload file ke GitHub:
+   - app.py
+   - requirements.txt
+   - garbage_classifier_model.h5
+   - class_indices.pkl
+   - idx_to_class.pkl
+
+2. Buka https://share.streamlit.io
+
+3. Klik "New app"
+
+4. Pilih repository GitHub
+
+5. Set Main file: app.py
+
+6. Klik "Deploy!"
+
+Tunggu 3-5 menit, aplikasi akan siap!
